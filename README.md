@@ -1,2 +1,3 @@
-# python-for-absolute-beginners
-Python for Absolute Beginners
+# Python for Absolute Beginners
+
+Learning Python from zero, by doing!
